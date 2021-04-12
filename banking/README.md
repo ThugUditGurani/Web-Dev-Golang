@@ -1,6 +1,17 @@
 
+Architecture :- Hexagonal Architecture
 
-API Documentation
+Steps:- 
+
+1. Run database.sql file in MySql WorkBench.
+2. Go Get Command to install modules.
+
+Tools :- 
+1. MySql
+2. Gorilla/mux
+3. Mockito
+
+API Documentation :-
 
 1. Get Customer API
 
